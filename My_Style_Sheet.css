@@ -1,0 +1,54 @@
+
+
+h1{
+	color: rgba(219, 250, 252, 1);
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	font-size: 80px;
+}
+
+#profilehead {
+
+width: 1000px;
+  margin-left: 300px ;
+  margin-right: auto ;
+
+}
+
+#java {
+	text-align: center;
+	margin-top: 50px ;
+}
+
+#links {
+	text-align: center;
+	font-family: 'Fredericka the Great', cursive;
+	font-size: 30px;
+	font-weight: bold;
+
+
+
+}
+
+body {
+    background-image: url("background.jpg");
+}
+
+p {
+
+  padding: 20px 40px 20px 40px; 
+	font-family:lucida sans unicode, lucida grande, sans-serif;
+  color: rgba(255,255,255,1);
+  background: linear-gradient(bottom, rgba(1, 72, 60, 0.9), rgba(68, 0, 0, 0.5));
+  background: -webkit-linear-gradient(bottom, rgba(1, 72, 60, 0.9), rgba(68, 0, 0, 0.9));
+  background: -moz-linear-gradient(bottom, rgba(1, 72, 60, 0.9), rgba(68, 0, 0, 0.9));
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  border-radius: 100px;
+  text-align: center;
+  transition: height .10s;
+  -webkit-transition: height .10s;
+  -moz-transition: height .10s;
+
+}
+
